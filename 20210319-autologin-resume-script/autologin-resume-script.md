@@ -5,7 +5,7 @@ description=How to get Linux to autologin and resume running a script.
 author=techbitsio
 tags=linux, scripting
 header_image=linux-commandline.jpg
-comments=
+comments=3
 -->
 
 I'm going to prefix this whole post with: Computers/servers automatically logging in is **bad security practice**. Certain situations may require this (such as software requiring a GUI/interactive shell on startup), in which case other precautions could be taken to mitigate risk.
