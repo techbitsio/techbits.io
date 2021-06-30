@@ -10,15 +10,15 @@ header_image=linux-commandline.jpg
 When creating a system from a clean image using a build script, it can get really annoying if one bit of software blocks the rest of the script from running because it’s prompting you to do something. It's even more annoying when you're specifically using flags to suppress warnings/prompts.
 
 needrestart is a bit of software that will automatically restart services for you (useful!) and tell you when you need to reboot (sometimes useful) because a newer kernel version has been installed.
-
+<!--- breakout -->
 <img alt="needrestart informing of a newly available kernel" src="images/pending-kernel-upgrade.png" class="width34" />
-
+<!--- breakin -->
 If you’re manually upgrading a system, the above colourful warning could be a useful message to see, but in the particular script I’m running, the next step is a reboot anyway.
 
 Even by using flags to suppress prompts and messages, you get the following:
-
+<!--- breakout -->
 <img alt="needrestart prompting a reboot" src="images/consider-rebooting-needrestart.png" class="width34" />
-
+<!--- breakin -->
 One option is to remove needrestart altogether, but that seems overkill when we might benefit from the service restarting features. Instead we can modify the config to hide future kernel version alerts.
 
 For Ubuntu 21.04 the config location defaults to **/etc/needrestart/needrestart.conf**, so edit that and change:
