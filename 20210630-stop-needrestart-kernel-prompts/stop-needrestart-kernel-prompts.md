@@ -11,13 +11,13 @@ When creating a system from a clean image using a build script, it can get reall
 
 needrestart is a bit of software that will automatically restart services for you (useful!) and tell you when you need to reboot (sometimes useful) because a newer kernel version has been installed.
 
-<img alt="needrestart informing of a newly available kernel" src="images/pending-kernel-upgrade.png" class="center" />
+<img alt="needrestart informing of a newly available kernel" src="images/pending-kernel-upgrade.png" class="width34" />
 
 If you’re manually upgrading a system, the above colourful warning could be a useful message to see, but in the particular script I’m running, the next step is a reboot anyway.
 
 Even by using flags to suppress prompts and messages, you get the following:
 
-<img alt="needrestart prompting a reboot" src="images/consider-rebooting-needrestart.png" class="center" />
+<img alt="needrestart prompting a reboot" src="images/consider-rebooting-needrestart.png" class="width34" />
 
 One option is to remove needrestart altogether, but that seems overkill when we might benefit from the service restarting features. Instead we can modify the config to hide future kernel version alerts.
 
