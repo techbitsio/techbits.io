@@ -4,6 +4,7 @@ publish_date=20201106
 description=How to create and use config files using configparser for Python 3
 header_image=python-code.jpg
 tags=python
+comments=2
 -->
 
 Configparser is a simple, built-in way to start using config files in your Python scripts and programs.
