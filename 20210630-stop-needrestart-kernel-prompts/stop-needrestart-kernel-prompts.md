@@ -5,6 +5,7 @@ description=Stop needrestart from blocking scripts with new kernel reboot 'sugge
 author=techbitsio
 tags=Linux
 header_image=linux-commandline.jpg
+comments=4
 -->
 
 When creating a system from a clean image using a build script, it can get really annoying if one bit of software blocks the rest of the script from running because it’s prompting you to do something. It's even more annoying when you're specifically using flags to suppress warnings/prompts.
