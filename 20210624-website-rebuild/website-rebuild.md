@@ -5,6 +5,7 @@ description=
 author=techbitsio
 tags=News
 header_image=website-redesign.jpg
+comments=1
 -->
 
 Techbits.io has had a few iterations over the years, and as a bit of a COVID project, I started rebuilding the whole thing from scratch.
