@@ -32,3 +32,5 @@ to
 The following one-liner will find the default (commented out) option and replace with the specific `0` value:
 
 `sed -i 's/#$nrconf{kernelhints} = -1;/$nrconf{kernelhints} = 0;/' /etc/needrestart/needrestart.conf`
+
+*Header image by [Sai Kiran Anagani](https://unsplash.com/photos/Tjbk79TARiE)*
