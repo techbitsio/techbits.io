@@ -3,8 +3,9 @@ title=Install Raspberry Pi OS and connect to Wi-Fi without a monitor
 publish_date=20210703
 description=How to install Raspberry Pi OS (Raspbian) and connect to Wi-Fi on a headless Raspberry Pi without having to connect a screen.
 author=techbitsio
-tags=rpi
+tags=raspberry pi
 header_image=pi-zero.jpg
+comments=5
 -->
 
 Flashing Raspberry Pi OS (formerly Raspbian) onto an SD card is fairly painless, but with just a couple more steps you can setup Wi-Fi and remote access, preventing the need to connect a monitor and keyboard to set this up for headless systems.
