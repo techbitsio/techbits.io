@@ -5,6 +5,7 @@ author=techbitsio
 tags=xbox, networking
 header_image=network-switch-ports.jpg
 publish_date=20140316
+comments=6
 -->
 
 **EDIT: This page *still* gets quite a lot of traffic. Apparently Xbox One NAT issues are fairly commonplace... Please leave a comment if this helps you fix the issue (or even if it doesn't). Or submit an edit and include your own tips.**
