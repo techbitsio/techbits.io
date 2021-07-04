@@ -5,6 +5,7 @@ description=Use aliases in the shell to make the Terminal more useful for you!
 author=techbitsio
 tags=macos
 header_image=macbook-air-header.jpg
+comments=7
 -->
 
 Aliases in the Terminal are shortcuts to run commands which you might find yourself using a lot, or they could be longer commands that you use infrequently but are more likely to get wrong. Aliases can even be used to override default commands.
