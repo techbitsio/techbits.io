@@ -20,10 +20,12 @@ By using the Github API, PRs and issue text can be used when generating pages al
 This is the content repo for https://techbits.io. The files here are used to generate the website. PRs will drive change/corrections on the website, and issues represent comment threads on posts.
 
 ## Is there a license?
-There's no license. Like most websites, all of the content in this repo is copyrighted unless explicitly stated, and all rights are reserved by techbitsio. Unaltered quotes can be reproduced under fair usage/fair dealing laws, but please link back to original content. If you're not sure, please DM https://twitter.com/techbitsio
+For website content (including but not limited to: text, images, website code) there is no license. Like most websites, all of the content in this repo is copyrighted unless explicitly stated, and all rights are reserved by techbitsio. Unaltered quotes can be reproduced under fair usage/fair dealing laws, but please link back to the original content. If you're not sure, please DM https://twitter.com/techbitsio
+
+Scripts/code snippets will be licensed indivudally where appropriate, most likely under an MIT license. Sharing and modification of this code is encouraged as long as the original licence is retained. Again, DM if unsure.
 
 Before submitting content to this repo, please ensure you're happy with these copyright rules, and that what you're adding is your own work which you're happy to relinquish the copyright for. Contributing authors will be credited (merged PRs will show on the affected posts/pages, with a link back to your PR).
 
-For the sake of clarity, forking the repo is permitted for the exclusive purpose of submitting a PR.
+For the sake of clarity, forking the `techbitsio/techbits.io` repo is permitted for the exclusive purpose of submitting a PR.
 
 If you're not sure about copyright terms, or anything else, please ask!
